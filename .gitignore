@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# WebStorm
+misc.xml
+modules.xml
+monsters-rolodex.iml
+vcs.xml
+/.idea
